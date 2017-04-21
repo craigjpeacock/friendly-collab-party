@@ -12,3 +12,6 @@ To learn how to use GitHub and version control so I can point other people in th
 
 ## Branch 1
 Try to add a to do list to the project
+
+## Help with the project
+Clair can help!
