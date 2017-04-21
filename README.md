@@ -15,3 +15,6 @@ Try to add a to do list to the project
 
 ## Help with the project
 Clair can help!
+
+# Desktop Client
+Now I can edit on my laptop
