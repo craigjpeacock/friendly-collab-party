@@ -9,3 +9,6 @@ Just me for now, but hopefully more people later in the exercise
 
 ## Aims
 To learn how to use GitHub and version control so I can point other people in this direction
+
+## Branch 1
+Try to add a to do list to the project
